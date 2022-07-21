@@ -1,3 +1,2 @@
 # UnityPingPongGame
-# UnityPingPong2dGame
-# UnityPingPong2dGame
+## 'I have no idea what im doing'
